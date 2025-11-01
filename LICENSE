@@ -1,21 +1,50 @@
-MIT License
 
-Copyright (c) 2025 TRu3Cert
+---
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+### **2. STRATEGIC LICENSE.md**
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+**File:** `LICENSE.md`
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+```text
+ALIGNED INTELLIGENCE OPEN PROTOCOL LICENSE
+
+Copyright (c) 2024 Aligned Intelligence. All rights reserved.
+
+This software and associated documentation files (the "Software") are provided under the following license terms, which constitute a legal agreement between you and Aligned Intelligence.
+
+1. GRANT OF RIGHTS
+   - You may view, download, and use the Software for NON-COMMERCIAL purposes including:
+     * Research and evaluation
+     * Educational use
+     * Personal projects
+   - You may modify the Software for these non-commercial purposes.
+   - You may share your modifications, provided you include this license.
+
+2. COMMERCIAL USE RESTRICTIONS
+   - You may NOT use the Software for any commercial purpose without a separate commercial license from Aligned Intelligence.
+   - Commercial purposes include but are not limited to:
+     * Incorporating into paid products or services
+     * Using in internal business operations
+     * Providing consulting or development services using the Software
+
+3. PATENT RIGHTS
+   - The underlying architecture is protected by patent-pending technology.
+   - This license does NOT grant any rights to the patented technology.
+   - Commercial use of the patented technology requires a separate patent license.
+
+4. ATTRIBUTION
+   - Any public use or distribution must include:
+     "This product uses concepts from Aligned Intelligence's Cognitive State Ledger architecture (patent-pending)."
+
+5. NO WARRANTY
+   - The Software is provided "AS IS" without any warranty.
+
+6. TERMINATION
+   - Your rights automatically terminate if you breach this license.
+
+For commercial licensing inquiries, contact: licensing@aligned-intelligence.com
+
+---
+
+SUMMARY: You can read, learn, experiment, and share for non-commercial purposes. 
+If you want to make money with this technology, you need to talk to us first.
